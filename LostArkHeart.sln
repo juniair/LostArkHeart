@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.28307.168
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LostArkHeart", "LostArkHeart\LostArkHeart.csproj", "{92752805-62DB-4EFB-8F06-8156A76640C2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LostArkHeart.Core", "LostArkHeart.Core\LostArkHeart.Core.csproj", "{05FE9EB3-DAA9-4BB2-ACC4-04789C400197}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{92752805-62DB-4EFB-8F06-8156A76640C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{92752805-62DB-4EFB-8F06-8156A76640C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{92752805-62DB-4EFB-8F06-8156A76640C2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{05FE9EB3-DAA9-4BB2-ACC4-04789C400197}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05FE9EB3-DAA9-4BB2-ACC4-04789C400197}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05FE9EB3-DAA9-4BB2-ACC4-04789C400197}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05FE9EB3-DAA9-4BB2-ACC4-04789C400197}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
